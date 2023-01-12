@@ -1,5 +1,7 @@
 # Easy Json Database
 
+### This is not an original version of the package, I just forked because the NPM version hase **console spam** problems
+
 This database is used for the **[Scratch For Discord](https://github.com/Androz2091/scratch-for-discord)** project.
 
 ## Example
